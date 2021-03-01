@@ -1,2 +1,3 @@
 # Video-game-retail-database
-A database created for the course code ITE1003
+This repository contains the sql file for the Oracle 
+Database
